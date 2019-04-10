@@ -1,4 +1,10 @@
 1. Decide what kind of pizza you want
-2.Place order 
-3.Wait
-4.Pay the delivery person
+2. Call
+3. Place order 
+  a. If paying over the phone, give CC information
+  b. If paying with cash, tell them you will pay delivery person.
+4. Wait
+5. When delivery person arrives
+  a. If you pay over the phone, take pizza from delivery person.
+  b. If you are paying with cash, pay delivery person and take pizza.
+6. Eat pizza
